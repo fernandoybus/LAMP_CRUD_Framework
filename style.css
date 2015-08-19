@@ -1,0 +1,19 @@
+th {
+  text-align: left;
+  background-color: rgb(104, 104, 255);
+  color: #fff;
+  font-style: normal;
+}
+
+
+
+img {
+
+width:70px; 
+height:70px;
+}
+
+
+.error {
+color: red;
+}
